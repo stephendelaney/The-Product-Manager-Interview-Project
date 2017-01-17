@@ -1,5 +1,6 @@
 # Vanity Metrics vs. Actionable Analytics
 > Could you provide some examples of where you encountered vanity metrics? 
+ PROPOSED CHANGE: Tell me about metrics you defined for a product, what they were and how you arrived at defining them.
 > **Follow-Up** How would you compare these to instances you've employed actionable analytics?
 
 ## Reason
